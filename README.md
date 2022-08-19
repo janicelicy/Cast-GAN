@@ -19,12 +19,12 @@ python test.py
 If you use the sample code or part of it in your research, please cite the following:
 
 ```
-@ARTICLE{PrivacyPreserving_Pipeline_Li_Cavallaro_2022,
+@ARTICLE{Cast-GAN_Li_2020,
        author = {{Li}, C.Y. and {Cavallaro}, A.},
-        title = "{Training privacy-preserving video analytics pipelines by suppressing features that reveal information about private attributes}",
-      journal = {International Conference on Acoustics, Speech, and Signal Processing},
-         year = 2022,
-        month = May,
+        title = "{Cast-GAN: Learning to Remove Colour Cast in Underwater Images}",
+      journal = {International Conference on Image Processing},
+         year = 2020,
+        month = Sep,
 }
 ```
 
