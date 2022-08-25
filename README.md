@@ -4,10 +4,10 @@ Chau Yi Li*, Andrea Cavallaro</br>
 Queen Mary University of London, London, United Kingdom</br>
 *chauyi.li@qmul.ac.uk</br>
 </p>
-
-   <img src="https://user-images.githubusercontent.com/26412181/186699466-2e675662-2000-40d6-8719-30662eedea8a.png" data-canonical-src="[https://user-images.githubusercontent.com/26412181/186698205-7b3a9aae-a997-47d1-af95-517649650560.png](https://user-images.githubusercontent.com/26412181/186699466-2e675662-2000-40d6-8719-30662eedea8a.png)" width="60%"/>  
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/26412181/186699466-2e675662-2000-40d6-8719-30662eedea8a.png" data-canonical-src="[https://user-images.githubusercontent.com/26412181/186698205-7b3a9aae-a997-47d1-af95-517649650560.png](https://user-images.githubusercontent.com/26412181/186699466-2e675662-2000-40d6-8719-30662eedea8a.png)" width="60%"/>  
   <img src="https://user-images.githubusercontent.com/26412181/186698205-7b3a9aae-a997-47d1-af95-517649650560.png" data-canonical-src="https://user-images.githubusercontent.com/26412181/186698205-7b3a9aae-a997-47d1-af95-517649650560.png" width="60%"/>
-
+</p>
 <p align="center"> Underwater image under low light (left)  enhanced by Cast-GAN (right). </p>
 
 ## Abstract
