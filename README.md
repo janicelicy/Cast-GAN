@@ -23,7 +23,7 @@ The network is modified from [pix2pix](https://github.com/junyanz/pytorch-CycleG
 
 ## Testing
  ```
-python test.py --dataroot --dataroot ./datasets  --name Cast-GAN --preprocess none  --direction BtoA  --dataset_mode aligned
+python test.py --dataroot ./datasets  --name Cast-GAN --preprocess none  --direction BtoA  --dataset_mode aligned
  ```
 Results are in the results/Cast-GAN folder.
 
